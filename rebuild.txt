@@ -1,0 +1,6 @@
+How to rebuild:
+
+sudo apt-get install npm ffmpeg nodejs
+cd to dir
+sudo npm rebuild
+node MusicBot.js
